@@ -1,3 +1,6 @@
+### Description 
+These projects were made following the freecodecamp.org Code 15 React Projects - Complete Course while learing react. You can find the tutorial video link below. 
+
 #### Tutorial Video
 
 (React Tutorial)[https://youtu.be/iZhV0bILFb0]
@@ -44,15 +47,3 @@
 
 15. Cocktails
 
-## Advanced Projects (Course Exclusive)
-
-[Course Link](https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=REACT-OCT)
-
-16. Markdown Preview
-17. Random Person
-18. Pagination
-19. Stock Photos
-20. Dark Mode
-21. Movie DB
-22. Hacker News
-23. Quiz
