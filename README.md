@@ -1,3 +1,6 @@
+### Description 
+These projects were made following the freecodecamp.org Code 15 React Projects - Complete Course while learing react. You can find the tutorial video link below. 
+
 #### Tutorial Video
 
 (React Tutorial)[https://youtu.be/iZhV0bILFb0]
